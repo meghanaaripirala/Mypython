@@ -9,3 +9,4 @@ while  a <= n:
     a = b
     b =c
     count += 1
+
